@@ -1,4 +1,5 @@
 clone: https://github.com/julienaubert/py8086, 修改成了支持python3
+windows需要安装 pip install windows-curses
 
 This is a _very_ downstripped 8086 emulator.
 It has an interactive debugger and a disassembler.
