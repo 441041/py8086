@@ -1,5 +1,9 @@
 clone: https://github.com/julienaubert/py8086, 修改成了支持python3
 windows需要安装 pip install windows-curses
+Assembly to Machine Language look:
+https://en.wikibooks.org/wiki/X86_Assembly/Machine_Language_Conversion#x86_Instructions_(32/64_bit)
+
+
 
 This is a _very_ downstripped 8086 emulator.
 It has an interactive debugger and a disassembler.
